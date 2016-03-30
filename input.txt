@@ -1,0 +1,17 @@
+
+'we're going off-topic': The topic was boring
+
+'still waiting on ganga to complete': I haven't submitted to ganga yet
+
+'I'll write the twiki': I have literally no idea how to do anything else useful, and also don't know how to edit a twiki
+
+'task force': circus clownshow
+
+
+
+moving this to the mailing list for discussion': You're dangerously straying into territory in which I am as incompetent as you are
+
+
+'deadline': deadline + 4 weeks is early
+
+ trained a Machine Learning  : I edited TMVAClassification.cxx
