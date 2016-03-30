@@ -20,4 +20,6 @@
 
 - 'Edited the note ': Ran a spellchecker
 
+- 'contacted the expert': found the phd student who last broke the code
+
 - I trained a Machine Learning  : I edited TMVAClassification.cxx
